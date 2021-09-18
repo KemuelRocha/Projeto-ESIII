@@ -2,7 +2,7 @@
 Repositório destinado ao projeto de Engenharia de Software 3
 
 Integrantes do Grupo:
-* Bruno Ikey
+* Bruno Ikey Rodrigues de Carvalho
 * Jules Bomfim
 * Kemuel dos Santos Rocha
 * Marcos
