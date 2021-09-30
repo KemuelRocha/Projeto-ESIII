@@ -1,8 +1,4 @@
 ![i](/imagem.png?raw=true)
-# Python para iniciantes
-
-
-##### Aqui aprenderemos de maneira intuitiva, objetiva, e rápida a programar em python
 
 O que aprenderemos: 
    * [Instalção](#Instalação)
