@@ -16,6 +16,7 @@ Sobre os arquivos ".py" presentes no diretório:
 * "Variáveis.py" -> Mostra como são implementadas as variáveis;
 * "Primeiro Programa.py" -> É um programa básico em pythom com o conhecido "Olá, Mundo!";
 * "Código Bônus.py" -> Código mais completo implementado pelo grupo como programa de treinamento em python com todos os tópicos abordados no "PythonPassoaPasso.md" e também com conteúdos adicionais;
-* "PythonPassoaPasso.md" -> Arquivo com um “passo a passo” de como aprender Python desde a instalação da IDE até a implementação dos códigos;
+
+O Arquivo "PythonPassoaPasso.md" contém um “passo a passo” de como aprender Python desde a instalação da IDE até a implementação dos códigos;
 
 Bons estudos!
