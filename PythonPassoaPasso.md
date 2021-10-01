@@ -137,6 +137,13 @@ For
 ```sh
 for i in range(5):
     print(i)
+"""
+0
+1
+2
+3
+4
+"""
   ```
  While
  ```sh
@@ -144,11 +151,13 @@ for i in range(5):
 while count <= 5:
     print(count)
     count += 1
+    # 0 1 2 3 4 5
   ```
 While True
  ```sh
 while True:
    print('foo')
+   # foo,foo,foo..
   ```
  Para mais informações sobre as estruturas de repetições estudadas, acesse: 
  http://devfuria.com.br/python/lacos-de-repeticao/
