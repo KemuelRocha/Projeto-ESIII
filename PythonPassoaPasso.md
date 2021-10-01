@@ -14,7 +14,7 @@ O que aprenderemos:
         * [Loops](#Loops)
    * [CódigoBônus](#CódigoBônus)
 
-## Instalação
+# Instalação
 
 
 Tutorial para instalação
@@ -37,7 +37,7 @@ https://www.python.org/downloads/
 [ ] If e Else
 [ ] Loops
 [ ] Código bônus
-## Configuração 
+# Configuração 
 
 Vídeo explicativo sobre a instalação do PyCharm 
 
