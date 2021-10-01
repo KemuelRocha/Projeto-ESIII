@@ -28,15 +28,6 @@ Download do Python versão 3.9.7
 https://www.python.org/downloads/
 
 
-### Etapas realizadas
-[x] Instalação
-[ ] Configuração
-[ ] Primeiro programa
-[ ] Comentários
-[ ] Variáveis
-[ ] If e Else
-[ ] Loops
-[ ] Código bônus
 # Configuração 
 
 Vídeo explicativo sobre a instalação do PyCharm 
@@ -47,15 +38,7 @@ Configurando e instruindo como utilizar o PyCharm
 
 https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
 
-### Etapas realizadas
-[x] Instalação
-[x] Configuração
-[ ] Primeiro programa
-[ ] Comentários
-[ ] Variáveis
-[ ] If e Else
-[ ] Loops
-[ ] Código bônus
+
 # Primeiro programa
 
 Mostraremos a seguir instruções de como realizar seu primeiro programa! 🙌
@@ -69,15 +52,7 @@ Veja o código acessando também
 
 https://blog.betrybe.com/desenvolvimento-web/hello-world-ola-mundo/
 
-### Etapas realizadas
-[x] Instalação
-[x] Configuração
-[x] Primeiro programa
-[ ] Comentários
-[ ] Variáveis
-[ ] If e Else
-[ ] Loops
-[ ] Código bônus
+
 # Comentários
 
 Aprenderemos agora algumas formas de utilizar o comentário em pyhton
@@ -96,15 +71,6 @@ toda informações contida entre 3 aspas SIMPLES
 Para mais informações acesse
 http://excript.com/python/comentarios-em-python.html
 
-### Etapas realizadas
-[x] Instalação
-[x] Configuração
-[x] Primeiro programa
-[x] Comentários
-[ ] Variáveis
-[ ] If e Else
-[ ] Loops
-[ ] Código bônus
 
 # Variáveis
 
@@ -124,15 +90,7 @@ Vale ressaltar que há distinção entre maiúsculo e minúsculo, como mostrado 
 Para mais informações, acesse:
 https://panda.ime.usp.br/panda/static/aulasPython/aula02.html
 
-### Etapas realizadas
-[x] Instalação
-[x] Configuração
-[x] Primeiro programa
-[x] Comentários
-[x] Variáveis
-[ ] If e Else
-[ ] Loops
-[ ] Código bônus
+
 # If e Else
 Visualizaremos a seguir as atribuições de IF, ELIF, ELSE:
 Para o IF
@@ -170,15 +128,6 @@ else:                #Condição ELSE
   Para mais informações, técnicas e conceitos sobre, acesse: 
   https://www.w3schools.com/python/python_conditions.asp
   
-  ### Etapas realizadas
-[x] Instalação
-[x] Configuração
-[x] Primeiro programa
-[x] Comentários
-[x] Variáveis
-[x] If e Else
-[ ] Loops
-[ ] Código bônus
 
 # Loops
 
@@ -204,15 +153,7 @@ while True:
  Para mais informações sobre as estruturas de repetições estudadas, acesse: 
  http://devfuria.com.br/python/lacos-de-repeticao/
  https://realpython.com/python-while-loop/
-  ### Etapas realizadas
-[x] Instalação
-[x] Configuração
-[x] Primeiro programa
-[x] Comentários
-[x] Variáveis
-[x] If e Else
-[x] Loops
-[ ] Código bônus
+
 
 # Código bônus
  
