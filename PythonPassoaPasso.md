@@ -68,7 +68,7 @@ toda informações contida entre 3 aspas SIMPLES
 é considerada como caracteres que devem ser ignorados.
 '''
 ```
-Para mais informações acesse
+Para mais informações, acesse
 http://excript.com/python/comentarios-em-python.html
 
 
