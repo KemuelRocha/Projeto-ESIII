@@ -1,7 +1,7 @@
 from time import sleep
 
 
-def exemplo(): # Exemplo
+def exemplo(): # Função Exemplo
     Jogador = dict()  # criação de um dicionário
     Todos = list()  # criação de uma lista
     Gols = list()  # criação de uma lista
@@ -62,7 +62,7 @@ def exemplo(): # Exemplo
 
 
 
-
+# Código Principal
 Menu = ('PRINT', 'IF & ELSE', 'FOR', 'WHILE', 'DICIONÁRIO', 'LISTAS', 'ALGUMAS FUNÇÕES EXTRAS', 'EXEMPLO', 'SAIR')
 print('Escolha uma opção para que seja mostrado um exemplo:')
 
