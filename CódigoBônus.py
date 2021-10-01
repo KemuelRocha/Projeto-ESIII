@@ -1,7 +1,7 @@
 from time import sleep
 
 
-def exemplo(): # Função Exemplo
+def exemplo(): # Exemplo
     Jogador = dict()  # criação de um dicionário
     Todos = list()  # criação de uma lista
     Gols = list()  # criação de uma lista
@@ -62,8 +62,8 @@ def exemplo(): # Função Exemplo
 
 
 
-# Código Principal
-Menu = ('PRINT', 'IF & ELSE', 'FOR', 'WHILE', 'DICIONÁRIO', 'LISTAS', 'ALGUMAS FUNÇÕES EXTRAS', 'EXEMPLO', 'SAIR')
+
+Menu = ['\033[0:32mPRINT', '\033[0:32mIF & ELSE', '\033[0:32mFOR', '\033[0:32mWHILE', '\033[0:32mDICIONÁRIO', '\033[0:32mLISTAS', '\033[0:32mALGUMAS FUNÇÕES EXTRAS', '\033[0:32mEXEMPLO', '\033[0:33mSAIR\033[m']
 print('Escolha uma opção para que seja mostrado um exemplo:')
 
 while True:
@@ -85,28 +85,40 @@ while True:
         if opção == '1':
             print('print("O print é usado quando se quer mostrar algum texto para o usuário.")')
             sleep(2)
+            Menu[0] = '\033[0:31mPRINT'
+            
         elif opção == '2':
-            print("""opção = str(input('Quer continuar? [S/N] ')).strip().upper()[0]
+        print("""opção = str(input('Quer continuar? [S/N] ')).strip().upper()[0]
         if opção in 'SN':   # Condição if que verifica se S ou N está dentro da variavel opção
             break
         else:
             print('ERRO! Digite Somente S ou N')""")
             sleep(5)
+            Menu[1] = '\033[0:31mIF & ELSE'
+            
         elif opção == '3':
             print(""" for c, k in enumerate(Todos[busca]["Gols"]): # For em conjunto com o enumerate 
             para mostrar oque tem dentro da lista todos enumerando cada linha dela
             print(f' No jogo {c+1} fez {k} gols.')""")
             sleep(2)
+            Menu[2] = '\033[0:31mFOR'
+            
         elif opção == '4':
             print("""while True:         # Loop infinito 
             Onde sua condição de parada é o break""")
             sleep(2)
+            Menu[3] = '\033[0:31mWHILE'
+            
         elif opção == '5':
             print("""Jogador = dict()  # criação de um dicionário""")
             sleep(1)
+            Menu[4] = '\033[0:31mDICIONÁRIO'
+            
         elif opção == '6':
             print("""Todos = list()    # criação de uma lista""")
             sleep(1)
+            Menu[5] = '\033[0:31mLISTAS'
+            
         elif opção == '7':
             print("""   .strip() #É usa para eliminar espaços em branco do início  e do fim.
             input() #É a função usado pra recever dados que o usuário passa pelo teclado.
@@ -117,9 +129,11 @@ while True:
             append() #Função usada para adicionar valores dentro de listas 
             sum() #Função usada para somar todos os valores que estão dentro de uma vairável""")
             sleep(5)
+            Menu[6] = '\033[0:31mALGUMAS FUNÇÕES EXTRAS'
+            
         else:
             exemplo()
             sleep(2)
-
+            Menu[7] = '\033[0:31mEXEMPLO'
 
 
