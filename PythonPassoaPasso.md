@@ -157,7 +157,7 @@ While True
  ```sh
 while True:
    print('foo')
-   # foo,foo,foo..
+   # foo,foo,foo...
   ```
  Para mais informações sobre as estruturas de repetições estudadas, acesse: 
  http://devfuria.com.br/python/lacos-de-repeticao/
