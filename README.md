@@ -19,4 +19,6 @@ Sobre os arquivos ".py" presentes no diretório:
 * "Primeiro Programa.py" -> É um programa básico em pythom com o conhecido "Olá, Mundo!";
 * "Código Bônus.py" -> Código mais completo implementado pelo grupo como programa de treinamento em python com todos os tópicos abordados no "PythonPassoaPasso.md" e também com conteúdos adicionais;
 
+* A "imagem.png" é a que foi utilizada no "PythonPassoaPasso.md".
+
 Bons estudos!
