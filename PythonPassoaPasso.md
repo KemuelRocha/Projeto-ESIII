@@ -12,7 +12,7 @@ O que aprenderemos:
    * [Nível avançado](#NívelAvançado)   
         * [Funções](#Funções)
         * [Loops](#Loops)
-   * [CódigoBônus](#CódigoBônus)
+   * [CódigoExtra](#CódigoExtra)
 
 # Instalação
 
@@ -41,7 +41,7 @@ https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-pr
 
 # Primeiro programa
 
-Mostraremos a seguir instruções de como realizar seu primeiro programa! 🙌
+Mostraremos a seguir instruções de como realizar seu primeiro programa!
 
 Escreva o código : 
 ```sh
@@ -155,5 +155,6 @@ while True:
  https://realpython.com/python-while-loop/
 
 
-# Código bônus
- 
+# Código Extra 
+
+Execute o código extra para consilidação da aprendizagem dos assuntos abordados, além de outros a conteúdos!!
