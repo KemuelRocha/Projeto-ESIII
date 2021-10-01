@@ -1,7 +1,7 @@
 ![i](/imagem.png?raw=true)
 
 O que aprenderemos: 
-   * [Instalção](#Instalação)
+   * [Instalação](#Instalação)
    * [Configuração](#Configuração)
    * [Primeiro Programa](#PrimeiroPrograma)
    * [Comentários](#Comentarios)
